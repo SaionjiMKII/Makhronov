@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tcno.co"><img src="https://i.imgur.com/ppB9LNC.png" alt="Makhronov logo" width="60%"></a>
+  <a href="https://tcno.co"><img src="https://i.imgur.com/6f3sWiO.jpg" alt="Makhronov logo" width="60%"></a>
 </p>
   
 Hi! I'm Vladislav. I am a C++ programmer and at the moment I am the chief administrator of the Information security forum [Ru-Sfera](https://ru-sfera.pw/).
