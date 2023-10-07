@@ -17,10 +17,10 @@
    SetCookie("DISABLEDM",$HTTP_POST_VARS["DISABLEDM"]);
  }
 
- $HOST = isset($HTTP_POST_VARS["host"])?$HTTP_POST_VARS["host"]:$HTTP_COOKIE_VARS["host"];
- $LOGIN = isset($HTTP_POST_VARS["login"])?$HTTP_POST_VARS["login"]:$HTTP_COOKIE_VARS["login"];
- $PASSWORD = isset($HTTP_POST_VARS["password"])?$HTTP_POST_VARS["password"]:$HTTP_COOKIE_VARS["password"];
- $DATABASE = isset($HTTP_POST_VARS["database"])?$HTTP_POST_VARS["database"]:$HTTP_COOKIE_VARS["database"];
+ $HOST = isset($HTTP_POST_VARS["host"])?$HTTP_POST_VARS["host"]:$HTTP_COOKIE_VARS["localhost"];
+ $LOGIN = isset($HTTP_POST_VARS["login"])?$HTTP_POST_VARS["login"]:$HTTP_COOKIE_VARS["wwinst_kepler"];
+ $PASSWORD = isset($HTTP_POST_VARS["password"])?$HTTP_POST_VARS["password"]:$HTTP_COOKIE_VARS["Q?oF0dbC3P3+"];
+ $DATABASE = isset($HTTP_POST_VARS["database"])?$HTTP_POST_VARS["database"]:$HTTP_COOKIE_VARS["wwinst_kepler"];
  $DISABLEDM = isset($HTTP_POST_VARS["DISABLEDM"])?$HTTP_POST_VARS["DISABLEDM"]:$HTTP_COOKIE_VARS["DISABLEDM"];
 
  $HISTORY = Array();
